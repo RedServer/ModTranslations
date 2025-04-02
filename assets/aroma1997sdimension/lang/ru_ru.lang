@@ -1,0 +1,10 @@
+tile.aroma1997sdimension:portalFrame.name=Рамка портала
+tile.aroma1997sdimension:miningOre.sticky_ore.name=Липкая руда
+tile.aroma1997sdimension:miningOre.clay_ore.name=Глиняная руда
+
+item.aroma1997sdimension:miningMultitool.name=Многорезцовый шахтёр
+item.aroma1997sdimension:dimensionChanger.name=Переключатель измерении
+
+itemGroup.aroma1997sdimension:creativeTabDW=Aroma1997s Dimensional World
+
+aroma1997sdimension:info.portalInfo=Чтобы пройти портал, Вы должны присесть в нём.

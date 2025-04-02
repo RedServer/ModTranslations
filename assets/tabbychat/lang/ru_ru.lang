@@ -1,0 +1,90 @@
+tabbychat=TabbyChat
+
+tabbychat.formats.messages.whisper=Локальный
+tabbychat.formats.messages.arrow=От -> Кому
+tabbychat.formats.messages.toFrom=Кому/От
+tabbychat.formats.messages.disabled=Выключено
+
+tabbychat.delims.angles=<Углы>
+tabbychat.delims.braces={Фигурные}
+tabbychat.delims.brackets=[Квадратные]
+tabbychat.delims.parenthesis=(Круглые)
+tabbychat.delims.invertedcomma=『Инвертированные』
+tabbychat.delims.anglesparens=<[Комбо]Pl.>
+tabbychat.delims.anglesbrackets=<[Комбо]Pl.>
+
+tabbychat.settings.title=Настройки TabbyChat
+tabbychat.settings.save=Сохранить
+tabbychat.settings.close=Закрыть
+
+tabbychat.settings.general=Основные
+tabbychat.settings.server=Сервер
+tabbychat.settings.filters=Фильтры
+tabbychat.settings.colors=Цвета
+tabbychat.settings.advanced=Расширенные
+
+tabbychat.settings.general.logChat=Логировать чат
+tabbychat.settings.general.logChat.desc=Записывать полученные сообщения в файл журнала
+tabbychat.settings.general.splitLog=Разделить лог
+tabbychat.settings.general.splitLog.desc=Разделяет журналы чата по каналам.\nНе работает, если логирование выключено.
+tabbychat.settings.general.timestamp=Метки времени
+tabbychat.settings.general.timestamp.style=Стиль
+tabbychat.settings.general.timestamp.color=Цвет
+tabbychat.settings.general.antispam=Анти-спам
+tabbychat.settings.general.antispam.desc=Группирует одинаковые сообщения
+tabbychat.settings.general.antispam.prejudice=Схожесть
+tabbychat.settings.general.antispam.prejudice.desc=Задаёт степень различия между двумя сообщениями для группировки
+tabbychat.settings.general.unreadFlashing=Уведомления по-умолчанию
+
+tabbychat.settings.server.channelsEnabled=Включить каналы
+tabbychat.settings.server.channelsEnabled.desc=Автоматический поиск новых каналов в сообщениях
+tabbychat.settings.server.pmEnabled=Включить ЛС
+tabbychat.settings.server.pmEnabled.desc=Автоматический поиск личных сообщений
+tabbychat.settings.server.channelPattern=Шаблон канала
+tabbychat.settings.server.channelPattern.desc=Предустановленные или пользовательские шаблоны соответствия каналам
+tabbychat.settings.server.messagePattern=Шаблон ЛС
+tabbychat.settings.server.messagePattern.desc=Предустановленные или пользовательские шаблоны соответствия ЛС
+tabbychat.settings.server.useDefault=Использовать канал по умолчанию
+tabbychat.settings.server.ignoredChannels=Игнорируемые каналы
+tabbychat.settings.server.ignoredChannels.desc=Имена каналов через запятую
+tabbychat.settings.server.channelCommand=Команда канала
+tabbychat.settings.server.channelCommand.desc=Команда, которая будет выполняться при активации вкладки канала.\n{} - будет заменено на название канала.
+tabbychat.settings.server.defaultChannel=Канал по-умолчанию
+tabbychat.settings.server.defaultChannel.desc=Укажите имя основного канала сервера
+tabbychat.settings.server.filters=Фильтры
+tabbychat.settings.server.filters.new=Новый
+
+tabbychat.filter.title=Изменить фильтр
+tabbychat.filter.name=Имя
+tabbychat.filter.destinations=Каналы
+tabbychat.filter.destinations.desc=Имена каналов через запятую
+tabbychat.filter.hideMatches=Скрывать соответствия
+tabbychat.filter.audioNotify=Звуковое уведомление
+tabbychat.filter.expression=Шаблон
+tabbychat.filter.regex=Введите регулярное выражение
+tabbychat.filter.ignoreCase=Игнорировать регистр
+tabbychat.filter.rawInput=Исходные данные
+
+tabbychat.channel.title=Каналы
+tabbychat.channel.label=Канал: %s
+tabbychat.channel.alias=Синоним
+tabbychat.channel.prefix=Префикс
+tabbychat.channel.hidePrefix=Скрыть префикс
+tabbychat.channel.command=Команда
+tabbychat.channel.select=Выберите канал
+tabbychat.channel.none=Каналы не обнаружены
+tabbychat.channel.forget=Забыть
+
+tabbychat.settings.colors.chatbox=Цвет окна
+tabbychat.settings.colors.chatborder=Цвет границы
+tabbychat.settings.colors.chattext=Цвет текста
+
+tabbychat.settings.advanced.fadetime=Время затухания (тики)
+tabbychat.settings.advanced.chatvisibility=Видимость чата
+tabbychat.settings.advanced.hidedelims=Скрыть разделители каналов *
+tabbychat.settings.advanced.spellcheck=Проверка орфографии
+
+tabbychat.settings.experimental=* - экспериментальное, может работать неправильно.
+
+tabbychat.warn.completions=Есть %s дополнений. Нажмите Tab еще раз, чтобы отобразить их в любом случае.
+tabbychat.message.loadchatdata=Журнал чата от %s
