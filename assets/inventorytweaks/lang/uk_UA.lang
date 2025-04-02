@@ -1,0 +1,90 @@
+invtweaks.loadconfig.enabled='%s' увімкнено
+invtweaks.loadconfig.refresh.error=[1] Не вдалось оновити опції з файлу
+invtweaks.loadconfig.invalidkeywords=Виявлено недопустимі ключові слова
+invtweaks.loadconfig.filemissing=відсутньо, створення стандартного.
+invtweaks.loadconfig.done=Конфігурацію завантажено.
+invtweaks.propsfile.loaded=Налаштування моду завантажено
+invtweaks.propsfile.error=[14] Не вдалось створити файл налаштування моду
+invtweaks.extract.find.error=[15] Мод не не буде працювати, %s не знайдено!
+invtweaks.extract.create.error=[16] Мод не буде працювати, не вдалось створити %s!
+invtweaks.sort.inventory.error=[2] Не вдалось відсортувати інвентар
+invtweaks.sort.chest.error=[3] Не вдалось відсортувати скриню
+invtweaks.sort.autorefill.error=[4] Не вдалось переключити автозаміну
+invtweaks.sort.releaseitem.error=[5] Не вдалось звільнити предмет
+invtweaks.shortcut.error=[6] Не вдалось переключити комбінацію клавіш
+invtweaks.pickup.error=[7] Не вдалось перемістити піднятий стек
+invtweaks.button.settings.tooltip=Налаштування інвентарю
+invtweaks.button.chest1.tooltip=Стандартне сортування
+invtweaks.button.chest2.tooltip=Сортування по стовбцях
+invtweaks.button.chest3.tooltip=Сортування по рядках
+invtweaks.settings.title=Налаштування інвентарю і скринь
+invtweaks.settings.on=УВІМК
+invtweaks.settings.off=В�?МК
+invtweaks.settings.key=Клавіша сортування:
+invtweaks.settings.disableci=Відключити CI
+invtweaks.settings.disableci.tooltip=Конфліктує з Convenient Inventory
+invtweaks.settings.middleclick=Клік середньою кнопкою мишки
+invtweaks.settings.middleclick.tooltip=Дозволяє виконувати сортування
+середньою кнопкою миші
+invtweaks.settings.chestbuttons=Кнопки скрині
+invtweaks.settings.chestbuttons.tooltip=Додає три кнопки
+для сортування речей в скрині
+invtweaks.settings.shortcuts=Гарячі клавіші
+invtweaks.settings.shortcuts.tooltip=Вмикає різні сполучення
+для переміщення предметів
+invtweaks.settings.autorefill=Автопідміна
+invtweaks.settings.autorefill.tooltip=Замінює зламані інструменти та спорожнілі стеки
+іншими з вашого інвентарю
+invtweaks.settings.beforebreak=Замінювати перед поломкою
+invtweaks.settings.beforebreak.tooltip=Замінює інструмент, перш ніж він зламається
+invtweaks.settings.moreoptions=Більше налаштувань...
+invtweaks.settings.moreoptions.tooltip=Ще більше крутих налаштувать
+invtweaks.settings.rulesfile=Відкрити файл правил сортування...
+invtweaks.settings.rulesfile.error=[8] Не вдалось відкрити файл правил
+invtweaks.settings.treefile=Відкрити файл дерева речей...
+invtweaks.settings.treefile.error=[9] Не вдалось відкрити файл дерева
+invtweaks.settings.onlinehelp=Відкрити довідку в браузері...
+invtweaks.settings.onlinehelp.error=[10] Не вдалось відкрити довідку
+invtweaks.help.bugsorting=Не працює?
+invtweaks.help.bugsorting.pt1=Якщо сервер 'відкатує' дії моду,
+invtweaks.help.bugsorting.pt2=це, скоріш за все, викликано плагіном NoCheatPlus.
+invtweaks.help.bugsorting.pt3=Спитайте адміністратора серверу відключити наступні параметри:
+invtweaks.help.bugsorting.pt4="inventory.fastclick" та "combined.improbable"
+invtweaks.settings.pvpwarning.pt1=Важливо: На PvP серверах автопідміна та автоекіпіровка
+invtweaks.settings.pvpwarning.pt2=часто приймаються за махлювання!
+invtweaks.settings.exit=Готово
+invtweaks.settings.advanced.sortonpickup=Сортувати при підбиранні
+invtweaks.settings.advanced.sortonpickup.soloonly=Тільки для одиночної гри
+invtweaks.settings.advanced.sortonpickup.tooltip=Уникає заповнення швидкої панелі
+всім, що ви підбираєте
+invtweaks.settings.advanced.sortonpickup.tooltip.soloonly=Лише для одиночної гри
+invtweaks.settings.advanced.autoequip=Автоматичне екіпіровка обладунків
+invtweaks.settings.advanced.autoequip.tooltip=Одягти кращу доступну броню
+при сортуванні
+invtweaks.settings.advanced.sounds=Увімкнути звуки
+invtweaks.settings.advanced.sounds.tooltip=Звуки при сортуванні
+чи автопідміні
+invtweaks.settings.advanced.mappingsfile=Відкрити файл відповідностей клавіш...
+invtweaks.settings.advanced.mappingsfile.error=[11] Не вдалось відкрити файл відповідностей
+invtweaks.settings.advanced.serverassist=Переміщення предметів на сервері
+invtweaks.settings.advanced.serverassist.tooltip=Увімкнути використання допомоги серверу для переміщення предметів під час сортування.
+invtweaks.help.shortcuts.title=Допомога по відповідності клавіш
+invtweaks.help.shortcuts.click=Клік мишки
+invtweaks.help.shortcuts.or=або
+invtweaks.help.shortcuts.onestack=Перемістити один стек
+invtweaks.help.shortcuts.oneitem=Перемістити один пердмет
+invtweaks.help.shortcuts.allitems=Перемістити всі предмети одного виду
+invtweaks.help.shortcuts.everything=Перемістити все
+invtweaks.help.shortcuts.hotbar=Перемістити на панель швидкого доступу
+invtweaks.help.shortcuts.emptyslot=Перемістити у вільний слот
+invtweaks.help.shortcuts.rightclick=(Будь яка комбінація клавіш) + Права кнопки мишки замість лівої
+invtweaks.help.shortcuts.drop=Викинути
+invtweaks.help.shortcuts.craftall=Скрафтити все в інвентар
+invtweaks.help.shortcuts.craftone=Скрафтити і перенести в інвентар
+invtweaks.help.shortcuts.selectconfig=Виберіть опції сортування
+invtweaks.help.shortcuts.forward=(наст.)
+invtweaks.help.shortcuts.backward=(попер.)
+invtweaks.keyboardfix.error=[12] В мене проблеми з клавіатурою
+invtweaks.keyboardfix.recover=Відновлено. Вибачте за незручності.
+invtweaks.modcompat.ci.error=[13] Не вдалось визначити сумісність з Convenient Inventory
+

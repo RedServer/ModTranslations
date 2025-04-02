@@ -1,0 +1,36 @@
+book.aroma1997sdimension:name=Aroma1997s Dimensional World Руководство пользователя
+
+book.aroma1997sdimension:chapter.general=Основная информация
+book.aroma1997sdimension:chapter.blocks=Информация о Блоках
+book.aroma1997sdimension:chapter.items=Информация о предметах
+book.aroma1997sdimension:chapter.setupPortal=Настройка портала
+
+book.aroma1997sdimension:introduction=Добро пожаловать в ваше новое руководство пользователя Aroma1997s Dimensional World! Это руководство охватывает все блоки и функции мода.
+
+book.aroma1997sdimension:general.1=Aroma1997s Dimensional World - это мод, который позволяет вам создать измерение, где вы можете спокойно заниматься добычей полезных ископаемых и не беспокоиться о том, что карьерные ямы разрушат вашу местность.
+book.aroma1997sdimension:general.2=Данное руководство пользователя не будет автоматически обновляться между версиями. Чтобы обновить его вручную, просто поместите его в сетку для крафта.
+book.aroma1997sdimension:general.3=Если вы не знаете рецептов сундука, сумки или улучшений, установите NEI. Рецепты крафта здесь показаны не будут.
+
+book.aroma1997sdimension:blocks.1=В этой части книги перечислены блоки мода и их соответствующие функции.
+
+book.aroma1997sdimension:blocks.portalFrame=Рамка портала: Этот блок является структурным блоком для портала в шахтёрское измерение и из него.
+book.aroma1997sdimension:blocks.stickyOre=Липкая руда: Вы когда-нибудь задумывались, где взять шарики слизи в мирное время? Что-ж, вот ваше решение. Липкая руда встречается довольно редко, но если вы будете добывать ее, то получите шарики слизи. На эту руду влияет удача.
+
+book.aroma1997sdimension:items.1=В этой главе перечислены предметы из мода.
+
+book.aroma1997sdimension:items.portalIgniter=Активатор портала: Этот предмет используется в крафте и для активации портала в шахтёрский мир.
+book.aroma1997sdimension:items.dimensionChanger=Инструмент перемещения между измерениями: Если вы заблудились в шахтёрском мире или просто ленивы, просто нажмите правой кнопкой мыши с этим предметом в руке, чтобы телепортироваться туда или обратно почти мгновенно.
+
+book.aroma1997sdimension:setupPortal.1=Вам, наверное, интересно, как вы можете попасть в шахтёрский мир. Это очень просто! Создайте блоки портала, расположите их в той же форме, в какой вы сделали бы Нижний портал, и поджигайте нижние блоки с помощью активатора портала.
+book.aroma1997sdimension:setupPortal.2=Если портал не создаётся, заполните внутреннюю часть конструкции любыми блоками, разбейте их, а затем снова активируйте портал, НЕ заходя в конструкцию.
+
+tile.aroma1997sdimension:portalFrame.name=Рамка портала
+tile.aroma1997sdimension:stickyOre.name=Липкая руда
+tile.aroma1997sdimension:miningPortal.name=Портал в шахтёрский мир
+
+aroma1997sdimension.message.portalHelp=Чтобы пройти через портал, вы должны присесть, когда находитесь в нём.
+
+item.aroma1997sdimension:portalIgniter.name=Активатор портала
+item.aroma1997sdimension:portalIgniter.description=%d%% ресурса использовано.
+item.aroma1997sdimension:dimensionChanger.name=Инструмент перемещения между измерениями
+item.aroma1997sdimension:dimensionChanger.description=Это ведет к измерению: %d (%s).

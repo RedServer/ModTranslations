@@ -1,0 +1,47 @@
+# gui - general
+schematica.gui.openFolder=Открыть папку со схемами
+schematica.gui.title=Выберите файл схемы
+schematica.gui.folderInfo=(Место хранения схем)
+schematica.gui.noSchematics=-- Нет схем --
+schematica.gui.hide=Спрятать
+schematica.gui.all=ВСЕ
+schematica.gui.show=Показать
+schematica.gui.moveHere=Передвинуть сюда
+schematica.gui.flip=Отразить
+schematica.gui.rotate=Повернуть
+schematica.gui.save=Сохранить
+schematica.gui.moveSchematic=Передвинуть схему
+schematica.gui.layers=Слои
+schematica.gui.operations=Операции
+schematica.gui.point.red=Красная точка
+schematica.gui.point.blue=Синяя точка
+schematica.gui.point.current=Текущая
+schematica.gui.saveSelection=Сохранить схему выделенной области
+schematica.gui.on=ВКЛ
+schematica.gui.off=ВЫКЛ
+schematica.gui.materials=Материалы
+schematica.gui.materialName=Материал
+schematica.gui.materialAmount=Количество
+schematica.gui.materialRequired=Требуется
+schematica.gui.materialAvailable=Доступно
+schematica.gui.printer=Принтер
+schematica.gui.displaySelection=Отображать выделение
+
+# keys
+schematica.key.category=Schematica
+schematica.key.load=Загрузить схему
+schematica.key.save=Сохранить схему
+schematica.key.control=Манипулирование схемой
+schematica.gui.unload=Выгрузить
+schematica.gui.materialDump=Сохранить в файл
+schematica.key.layerInc=След. слой
+schematica.key.layerDec=Пред. слой
+schematica.message.save.started=Начато сохранение %d чанков в %s.
+schematica.message.save.saveSucceeded=Схема %s успешно сохранена.
+schematica.message.save.saveFailed=Произошла ошибка при сохранении %s.
+schematica.message.download.started=Начало скачивания %s...
+schematica.message.download.downloadSucceeded=Передача %s успешно завершена.
+schematica.message.download.downloadFail=Передача файла не удалась.
+schematica.message.download.downloadBlocked=Входящая передача была отклонена. Схема %s не запрашивалась.
+schematica.message.download.invalidHash=Скачивание не удалось: неправильный хеш файла
+schematica.message.serverNotSupported=Schematica не поддерживается этим сервером

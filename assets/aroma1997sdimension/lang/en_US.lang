@@ -1,0 +1,36 @@
+book.aroma1997sdimension:name=Aroma1997s Dimensional World User Manual
+
+book.aroma1997sdimension:chapter.general=General Information
+book.aroma1997sdimension:chapter.blocks=Block Information
+book.aroma1997sdimension:chapter.items=Item Information
+book.aroma1997sdimension:chapter.setupPortal=Setting Up the Portal
+
+book.aroma1997sdimension:introduction=Welcome to your new Aroma1997s Dimensional World User Manual! This manual covers all the blocks and their functions from the mod.
+
+book.aroma1997sdimension:general.1=Aroma1997s Dimensional World is a mod that allows you to create a dimension where you can mine peacefully and not worry about quarry holes destroying your terrain.
+book.aroma1997sdimension:general.2=This User Manual will not automatically update itself between versions. To update it manually just place it into a crafting grid.
+book.aroma1997sdimension:general.3=If you don't know the recipes of the Chest, Bag or the Upgrades, install NEI. The Crafting recipes won't be shown here.
+
+book.aroma1997sdimension:blocks.1=This part of the book lists the blocks in the mod and their respective functions.
+
+book.aroma1997sdimension:blocks.portalFrame=Portal Frame: This block is the structure block for the portal to and from the Mining Dimension.
+book.aroma1997sdimension:blocks.stickyOre=Sticky Ore: Have you ever wondered where to get slimeballs in Peaceful? Well, here's your solution. Sticky Ore is fairly rare, but if you mine it, you will get slimeballs. This ore is affected by Fortune.
+
+book.aroma1997sdimension:items.1=This chapter lists the items from the mod.
+
+book.aroma1997sdimension:items.portalIgniter=Mining Multitool: This item is used in crafting and to light the portal to the Mining World.
+book.aroma1997sdimension:items.dimensionChanger=DimensionChanger: If you are lost in the Mining World or just lazy, just hold Right-Click with this item in your hand to teleport from/to the Mining World almost instantly.
+
+book.aroma1997sdimension:setupPortal.1=You are probably wondering how can you get to the Mining World. It's very simple! Craft the Portal Blocks, arrange them in the same shape you would make a Nether Portal, and ignite the bottom blocks with the Mining Multitool.
+book.aroma1997sdimension:setupPortal.2=If the Portal does not form, fill the inside of the structure with any blocks, break them, and then light the Portal again WITHOUT stepping into the structure.
+
+tile.aroma1997sdimension:portalFrame.name=Portal Frame
+tile.aroma1997sdimension:stickyOre.name=Sticky Ore
+tile.aroma1997sdimension:miningPortal.name=Mining Portal
+
+aroma1997sdimension.message.portalHelp=To go through the portal, you have to sneak in it.
+
+item.aroma1997sdimension:portalIgniter.name=Mining Multitool
+item.aroma1997sdimension:portalIgniter.description=%d%% of this tool is already used.
+item.aroma1997sdimension:dimensionChanger.name=Dimension Changer
+item.aroma1997sdimension:dimensionChanger.description=This leads to dimension: %d (%s).

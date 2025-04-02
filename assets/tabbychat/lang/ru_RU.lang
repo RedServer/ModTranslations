@@ -1,0 +1,126 @@
+#Language file for ru_RU
+
+colors.aqua=Голубой
+colors.brightgreen=Лаймовый
+colors.black=Чёрный
+colors.darkaqua=Тёмно-голубой
+colors.darkblue=Тёмно-синий
+colors.darkgray=Тёмно-серый
+colors.darkgreen=Тёмно-зеленый
+colors.darkred=Тёмно-красный
+colors.default=Обычный
+colors.gold=Золотой
+colors.gray=Серый
+colors.indigo=Индиго
+colors.pink=Розовый
+colors.purple=Фиолетовый
+colors.red=Красный
+colors.white=Белый
+colors.yellow=Жёлтый
+
+delims.angles=<Углы>
+delims.anglesbracketscombo=<[Комбо]Pl.>
+delims.anglesparenscombo=<(Комбо)Pl.>
+delims.braces={Фигурные}
+delims.brackets=[Квадратные]
+delims.parenthesis=(Круглые)
+
+formats.bold=Жирный
+formats.default=Обычный
+formats.italic=Курсив
+formats.magic=Magic
+formats.striked=Зачекрнутый
+formats.underline=Подчеркнутый
+
+messages.update1=Найдено обновление \! (Текущая версия
+messages.update2=, новая
+messages.update3=Посетите тему на minecraftforum.net для скачки обновления.
+
+settings.advanced.chatboxunfocheight=Высота неактивного чата
+settings.advanced.chatfadeticks=Время исчезновения (Тик)
+settings.advanced.chatscrollhistory=История чата (строки)
+settings.advanced.convertunicodetext=Преобразовывать юникод
+settings.advanced.forceunicode=Юникод рендеринг
+settings.advanced.maxlengthchannelname=Макс. длина имени канала
+settings.advanced.multichatdelay=Отправка сообщений, мультичат (Мс)
+settings.advanced.name=Расширенные
+settings.advanced.textignoreopacity=Текст игнорирует непрозрачность
+
+settings.cancel=Отмена
+settings.delete=Удалить
+settings.new=Новый
+settings.save=Сохр.
+
+settings.channel.alias=Алиас
+settings.channel.cmdprefix=Префикс команд
+settings.channel.hideprefix=Скрывать префикс при вводе
+settings.channel.notificationson=Уведомления
+settings.channel.of=из
+settings.channel.position=Позиция\:
+
+settings.filters.audionotificationbool=Аудио уведомления
+settings.filters.audionotificationsound=Звук
+settings.filters.casesensitive=Учитывать регистр
+settings.filters.expressionstring=Регулярное выражение
+settings.filters.filtername=Имя фильтра
+settings.filters.highlightbool=Подсвечивать совпадения
+settings.filters.highlightcolor=Цвет
+settings.filters.highlightformat=Формат
+settings.filters.inversematch=Инвентировать
+settings.filters.name=Фильтры
+settings.filters.removematches=Скрывать совпадения
+settings.filters.sendtoalltabs=Все вкладки
+settings.filters.sendtotabbool=Показывать во вкладках
+settings.filters.sendtotabname=Отдельная
+
+settings.general.groupspam=Группировать одинаковые сообщения
+settings.general.name=Основные
+settings.general.savechatlog=Логировать в файл
+settings.spelling.spellcheckenable=Включить проверку правописания
+settings.general.splitchatlog=Разделять по каналам
+settings.general.tabbychatenable=TabbyChat включен
+settings.general.timestampcolor=Цвет
+settings.general.timestampenable=Пометка времени
+settings.general.timestampstyle=Стиль
+settings.general.unreadflashing=Уведомления по-умолчанию
+settings.general.updatecheckenable=Проверять обновления
+
+settings.server.autochannelsearch=Автоматический поиск новых каналов
+settings.server.autopmsearch=Включить вкладки личных сообщений
+settings.server.defaultchannels=Каналы по-умолч.
+settings.server.delimcolorbool=Цветные разделители
+settings.server.delimformatbool=Формат
+settings.server.delimiterchars=Разделители каналов
+settings.server.ignoredchannels=Игнор. каналы
+settings.server.name=Сервер
+settings.server.regexignorebool=Использовать regex
+settings.server.pmtabregex.tome=Сообщение мне
+settings.server.pmtabregex.fromme=Сообщение от меня
+
+settings.spelling.name=Правописание
+settings.spelling.userdictionary=Пользов. словарь
+settings.spelling.opendictionary=Открыть файл
+settings.spelling.reloaddictionary=Перезагрузить
+
+sounds.anvil=Наковальня
+sounds.bass=Басс
+sounds.bat=Летучая мышь
+sounds.blast=Взрыв
+sounds.blaze=Ифрит
+sounds.bowhit=Стрела
+sounds.break=Разрушение
+sounds.cat=Кошка
+sounds.chicken=Курица
+sounds.click=Кнопка
+sounds.cow=Корова
+sounds.dragon=Дракон
+sounds.endermen=Эндермен
+sounds.ghast=Гаст
+sounds.glass=Стекло
+sounds.harp=Арфа
+sounds.orb=Опыт
+sounds.pig=Свинья
+sounds.pling=Pling
+sounds.splash=Всплеск
+sounds.swim=Спрут
+sounds.wolf=Волк

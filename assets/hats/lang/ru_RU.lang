@@ -1,0 +1,197 @@
+hats.firstJoin.hatHunting=[Hats] Сервер в режиме охоты на шляпы! Убейте моба со шляпой, чтобы получить её!
+hats.firstJoin.kingOfTheHat.hasKing=[Hats] Сервер в режиме Короля шляпы! Убей короля и получи своё право носить шляпу!
+hats.firstJoin.timeActive=[Hats] Сервер в режиме временной активности! Проведи больше времени на сервере, чтобы разблокировать шляпу!
+hats.kingOfTheHat.update.playerJoin=[Hats] Возрадуйтесь! %s теперь Король!
+hats.kingOfTheHat.update.playerDied=[Hats] %1$s умер! %2$s теперь Король!
+hats.kingOfTheHat.update.playerSlayed=[Hats] %1$s был убит! %2$s теперь Король!
+hats.kingOfTheHat.update.playerLeft=[Hats] %1$s покинул сервер! %2$s теперь Король!
+hats.kingOfTheHat.notKing=[Hats] Ты не король. Король - %s! Ты не достоин носить эту шляпу!
+hats.lockedMode=[Hats] Сервер в режиме блокировки! Вы не можете сменить шляпу!
+hats.trade.tradeWith=Торговать с %s
+hats.trade.yourHats=Ваши шляпы
+hats.trade.yourInventory=Ваш инвентарь
+hats.trade.yourOfferings=Ваши предложения:
+hats.trade.theirOfferings=Предложения %s:
+hats.trade.waitingForOffer=В ожидании пока кто-нибудь сделает предложение.
+hats.trade.tradeNotReady=Не готов к обмену.
+hats.trade.tradeReady=Готов к обмену.
+hats.trade.makeTrade=Обменяться
+hats.trade.waitingForReady=В ожидании пока обе стороны будут готовы.
+hats.trade.bothReady=Обе стороны готовы к обмену.
+hats.trade.cancelTrade=Отменить обмен
+hats.trade.waitingForYou=В ожидании Вашего подтверждения
+hats.trade.waitingForThem=В ожидании подтверждения другой стороны
+hats.trade.you=Вы
+hats.trade.added=добавлен
+hats.trade.removed=удалён
+hats.trade.ready=Вы готовы
+hats.trade.readyThem=%s готов
+hats.trade.notReady=Вы не готовы
+hats.trade.notReadyThem=%s не готов
+hats.trade.selectTrader=Выберите игрока, с которым хотите торговать.
+hats.trade.newTradeRequest=Новое предложение обмена
+hats.trade.tradeRequestDesc=Нажмите %s для большей информации
+hats.trade=Торговать с ближайшими игроками
+hats.trade.acceptRequestGeneral=Принять предложение обмена
+hats.trade.acceptRequestSpecific=Принять предложение обмена от %1$s (%2$s)
+hats.trade.cannotFindTrader=[Hats] Невозможно начать обмен! %s не обнаружен!
+hats.trade.cannotAcceptTrade=[Hats] Невозможно начать обмен! Предложение теперь недействительно!
+hats.trade.terminatePrefix=Обмен отменён.
+hats.trade.terminate1=%s умер.
+hats.trade.terminate2=Вы и %s ушли слишком далеко друг от друга!
+hats.trade.terminate3=Что-то преграждает Вам путь!
+hats.trade.terminate4=%s отменил обмен.
+hats.trade.terminate5=%s в другом измерении.
+hats.trade.success=[Hats] Обмен завершён успешно.
+hats.command=Управление модом Hats
+hats.command.help=Наберите /hats для вывода полного списка шляп.
+hats.command.help.send=Наберите /hats send <игрок> <название шляпы> что-бы отправить шляпу другому игроку.
+hats.command.help.set=Наберите /hats set <игрок> <название шляпы> что-бы выбрать шляпу данному игроку.
+hats.command.help.unlock=Наберите /hats unlock <игрок> <название шляпы> что-бы разблокировать шляпу для данного игрока.
+hats.command.notOnline=%s нету на сервере!
+hats.command.hatDoesNotExist=%s не существует!
+hats.command.serverDisabledHatSending=Отправка шляп отключена на этом сервере!
+hats.command.sendToPlayer=Шляпа "%1$s" отправлена к %2$s
+hats.command.setPlayerHat=Шляпа "%1$s" надета на %2$s
+hats.command.playerIsInCreative=%s в творческом режиме!
+hats.command.unlockHatForPlayer=Шляпа "%1$s" разблокирована для %2$s
+hats.command.adminNotify.unlockHatForPlayer=%1$s разблокировал шляпу "%2$s" для %3$s
+hats.command.serverIsNotOnHatHuntingMode=Сервер не в режиме охоты на шляпы!
+hats.serverOnCommandGiverMode=Вы не можете использовать эти команды!
+hats.hatUnlocked=Шляпа разблокирована!
+hats.gui.search=Поиск
+hats.gui.allHats=Все шляпы
+hats.gui.addNew=Добавить шляпу
+hats.gui.firstPerson=От первого лица
+hats.gui.showHats=Показать шляпы
+hats.gui.contributors=Соучастники
+hats.gui.category=Категория
+hats.gui.categories=Категории
+hats.gui.colorizer=Палитра
+hats.gui.hatsList=Список шляп
+hats.gui.resetSide=Сбросить клавиши?
+hats.gui.randomobs=RandoMobs
+hats.gui.personalize=Настройки
+hats.gui.viewing=Просмотр
+hats.gui.discardChanges=Отменить изменения?
+hats.gui.removeHat=Удалить шляпу
+hats.gui.randomHat=Случайная шляпа
+hats.gui.randomCategory=Случайная категория
+hats.gui.randomColor=Случайный цвет
+hats.gui.resetColor=Сбросить цвет
+hats.gui.reloadAllHats=Перезагрузить все шляпы?
+hats.gui.discardAllChanges=Это отменит все изменения.
+hats.gui.favorites=Избранное
+hats.gui.invalidName=Неверное название!
+hats.gui.addCategory=Добавить категорию
+hats.gui.addToCategory=Добавить в категорию
+hats.gui.removeFromCategory=Удалить из категории
+hats.gui.areYouSure=Вы уверены?
+hats.gui.clickConfirm=Нажмите опять, чтобы подтвердить
+hats.gui.deleteCategory=Удалить категорию
+hats.gui.deleteCategory.desc1=Это удалит все шляпы
+hats.gui.deleteCategory.desc2=в этой категории и
+hats.gui.deleteCategory.desc3=перезагрузит меню.
+hats.gui.doubleClickConfirm=Дважды щёлкните для подтверждения
+hats.gui.disableHat=Отключить шляпу?
+hats.gui.disableHat.desc1=Это отключит шляпу во всех
+hats.gui.disableHat.desc2=категориях и перезагрузит
+hats.gui.disableHat.desc3=меню, но не удалит шляпу
+hats.gui.disableHat.desc4=полностью.
+hats.gui.deleteHat=Удалить шляпу?
+hats.gui.deleteHat.desc1=Это удалит шляпу из всех
+hats.gui.deleteHat.desc2=категорий и перезагрузит
+hats.gui.deleteHat.desc3=меню.
+hats.gui.renameCategory=Переименовать категорию?
+hats.gui.renameCategory.desc1=Это перезагрузит меню!
+hats.gui.removeFromFavorites=Удалить шляпу из Избранного
+hats.gui.addToFavorites=Добавить в Избранное
+hats.gui.resetButtonsOnSide=Сбросить все клавиши меню?
+
+hats.gui.helpInfo1.desc1=Кликните по шляпе с зажатым
+hats.gui.helpInfo1.desc2=Shift'ом для настройки.
+hats.gui.helpInfo1.desc3=Однако Вы не можете этого
+hats.gui.helpInfo1.desc4=сделать со шляпой, которая 
+hats.gui.helpInfo1.desc5=на вас надета.
+
+hats.gui.helpInfo2.desc1=Если Вы находитесь на сервере
+hats.gui.helpInfo2.desc2=без этого мода, то другие игроки
+hats.gui.helpInfo2.desc3=не будут видеть Вашу шляпу.
+
+hats.gui.helpInfo3.desc1=А Вы знали что можете получить ещё
+hats.gui.helpInfo3.desc2=больше шляп? Techne Online имеет
+hats.gui.helpInfo3.desc3=сообщество, в котором Вы можете
+hats.gui.helpInfo3.desc4=найти и скачать новые красивые шляпы.
+
+hats.gui.helpInfo4.desc1=С помощью Techne Вы всегда можете 
+hats.gui.helpInfo4.desc2=сделать свою собственную шляпу!
+hats.gui.helpInfo4.desc3=Модель головы расположена в центре
+hats.gui.helpInfo4.desc4=блока древесины. Её размеры:
+hats.gui.helpInfo4.desc5=8 x 8 x 8. Сделайте на ней свою шляпу!
+
+hats.gui.helpInfo5.desc1=Вы знали, что можете создавать свои категории?
+hats.gui.helpInfo5.desc2=Нажмите на клавишу "Категории"(или C на клавиатуре)
+hats.gui.helpInfo5.desc3=и нажмите "Добавить новую".
+
+hats.gui.helpInfo6.desc1=Если у других игроков надетая на вас шляпа не будет
+hats.gui.helpInfo6.desc2=загружена - файл с этой шляпой будет отправлен
+hats.gui.helpInfo6.desc3=на сервер, а сервер отправит его другим игрокам.
+hats.gui.helpInfo6.desc4=(Работает только на серверах с этим модом)
+
+hats.gui.helpInfo7.desc1=Нажатие клавиши "Случайная шляпа" с зажатым Shift'ом
+hats.gui.helpInfo7.desc2=даст Вам случайную шляпу со случайным цветом!
+
+hats.gui.helpInfo8.desc1=Нажатие клавиши "Случайный цвет" с зажатым
+hats.gui.helpInfo8.desc2=Shift'ом сбросит все цвета.
+
+hats.gui.helpInfo9.desc1=Вы можете нажать TAB или T для
+hats.gui.helpInfo9.desc2=быстрого выбора поиска.
+
+hats.gui.helpInfo10.desc1=А Вы знаете, что этот мод бы придуман и
+hats.gui.helpInfo10.desc2=сделан для 96-и часового марафона моддинга
+hats.gui.helpInfo10.desc3=называемого ModJam?
+hats.gui.helpInfo10.desc4=Он выиграл второе место по предводительством iChun'a,
+hats.gui.helpInfo10.desc5=который и сейчас поддерживает этот мод.
+
+hats.gui.helpInfo11.desc1=Многие шляпы добавляемые модом были названы
+hats.gui.helpInfo11.desc2=в честь людей, сделавших значительный вклад
+hats.gui.helpInfo11.desc3=в создание мода: разработку, тестирование,
+hats.gui.helpInfo11.desc4=создание моделей, поддержку и
+hats.gui.helpInfo11.desc5=пожертвования.
+hats.gui.helpInfo11.desc6=Тем не менее, Direwolf20 это просто бонус.
+
+hats.gui.helpInfo12.desc1=Нажатие клавиши "Список шляп"
+hats.gui.helpInfo12.desc2=перенесёт вас к списку
+hats.gui.helpInfo12.desc3=ВСЕХ шляп из мода.
+
+hats.gui.helpInfo13.desc1=Если Вы кликните правой кнопкой мыши
+hats.gui.helpInfo13.desc2=по панели поиска - она станет пустой.
+
+hats.gui.helpInfo14.desc1=Лучше отключите шляпу вместо её удаления.
+hats.gui.helpInfo14.desc2=Просто зажмите Shift при нажатии клавиши удаления.
+
+hats.gui.helpInfo15.desc1=Нажатие Shift + F добавит
+hats.gui.helpInfo15.desc2=или удалит надетую шляпу
+hats.gui.helpInfo15.desc3=из избранного.
+
+hats.gui.helpInfo16.desc1=Горячая клавиша для
+hats.gui.helpInfo16.desc2=настроек - "P",
+hats.gui.helpInfo16.desc3=на случай, если Вы
+hats.gui.helpInfo16.desc4=отключили её.
+
+hats.gui.helpInfo17.desc1=Все скачанные Вами шляпы
+hats.gui.helpInfo17.desc2=будут использованы в 
+hats.gui.helpInfo17.desc3=режиме охоты на шляпы.
+
+hats.gui.helpInfo18.desc1=Знак (C) в названии шляпы означает
+hats.gui.helpInfo18.desc2=что шляпа была добавлена в знак
+hats.gui.helpInfo18.desc3=благодарности за пожертвования.
+
+hats.gui.helpInfo19.desc1=Если Вы не хотите видеть
+hats.gui.helpInfo19.desc2=шляпы на существах - отключите их
+hats.gui.helpInfo19.desc3=в настройках.
+
+hats.addon.hatstands.gui.base=Подставка
+hats.addon.hatstands.gui.stand=Стойка
+
+tile.hats.addon.hatstands.block.name=Стойка для шляп
