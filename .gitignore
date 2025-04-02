@@ -1,0 +1,16 @@
+# OS generated files
+*.lnk
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+.AppleDB
+.AppleDesktop
+.apdisk
